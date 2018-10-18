@@ -1,0 +1,1 @@
+module.exports = (value, expression) => new RegExp(`${expression}$`, "i").test(value);

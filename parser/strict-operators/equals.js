@@ -1,0 +1,1 @@
+module.exports = (value, expression) => value==expression;
